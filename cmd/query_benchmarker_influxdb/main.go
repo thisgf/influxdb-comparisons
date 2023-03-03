@@ -19,9 +19,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/influxdata/influxdb-comparisons/bulk_query"
-	"github.com/influxdata/influxdb-comparisons/bulk_query/http"
-	"github.com/influxdata/influxdb-comparisons/util/report"
+	"github.com/thisgf/influxdb-comparisons/bulk_query"
+	"github.com/thisgf/influxdb-comparisons/bulk_query/http"
+	"github.com/thisgf/influxdb-comparisons/util/report"
 )
 
 // Program option vars:
